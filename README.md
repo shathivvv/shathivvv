@@ -4,7 +4,7 @@ Computer Science undergraduate at **Universiti Malaysia Pahang Al-Sultan Abdulla
 I build full-stack web apps and computer vision systems, and I'm looking for a **Software Engineering / AI Engineering internship (Feb–Aug 2027)**.
 
 ### What I'm working on
-- **Campus Gate ALPR**: my final-year project. Real-time license plate recognition with YOLO + PaddleOCR, multi-frame voting and a Flask dashboard. 44/44 plates detected and 89% logged exactly on campus footage, with OCR made ~28× faster.
+- **[Campus Gate ALPR](https://github.com/shathivvv/campus-gate-alpr)**: my final-year project. Real-time license plate recognition with YOLO + PaddleOCR, multi-frame voting and a Flask dashboard. 44/44 plates detected and 89% logged exactly on campus footage, with OCR made ~28× faster.
 - **[JiranAid](https://github.com/shathivvv/jiranaid)**: neighbourhood tool-sharing platform (group project). I built the booking and review modules of the Express REST API.
 - **[Lock-In Journal](https://github.com/shathivvv/lock-in-journal)**: daily DSA practice in Python.
 
